@@ -1,6 +1,6 @@
 # The Answer To Everything
 
-In the fast paced world of javascript, where everything moves faster then you can comprehend, this is what you need. It's easier to reason about, better to use and will lead the way into the future. Features: unbelievably usefull, thought provoking and web scalable.
+In the fast paced world of javascript, where everything moves faster then you can comprehend, this is what you need. It's easier to reason about, better to use and will lead the way into the future. Features: unbelievably useful, thought provoking, web scalable as well as high performance and real-time.
 
 ### Installation
 ```
